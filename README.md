@@ -20,7 +20,7 @@ I'm a results-driven ML Engineer and Data Analyst with hands-on experience in bu
 `Scikit-learn` | `TensorFlow` | `PyTorch` | `XGBoost` | `Pandas` | `NumPy` | `Matplotlib`
 
 **Tools & Platforms:**  
-`Power BI` | `Excel` | `Snowflake` | `MySQL` | `Streamlit` | `Flask` | `Docker` | `Google Colab` | `VS Code`
+`Power BI` | `Excel` | `Snowflake` | `MySQL` | `Streamlit` | `Google Colab` | `VS Code`
 
 ---
 
